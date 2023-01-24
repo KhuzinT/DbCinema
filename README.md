@@ -2,12 +2,12 @@
 
 **КОНЦЕПТУАЛЬНАЯ МОДЕЛЬ**
 
-![Image alt](https://gitlab2.atp-fivt.org/db2021/huzinti-project/-/blob/master/pictures/concept_model.png)
+![Concept model](https://github.com/KhuzinT/DbCinema/blob/main/pictures/concept_model.png)
 
 **ЛОГИЧЕСКАЯ МОДЕЛЬ**
 
-![Image alt](https://gitlab2.atp-fivt.org/db2021/huzinti-project/-/blob/master/pictures/logic_model.png)
+![Logic model](https://github.com/KhuzinT/DbCinema/blob/main/pictures/logic_model.png)
 
 **ФИЗИЧЕСКАЯ МОДЕЛЬ**
 
-![Image alt](https://gitlab2.atp-fivt.org/db2021/huzinti-project/-/blob/master/pictures/physycal_model.png)
+![Physycal model](https://github.com/KhuzinT/DbCinema/blob/main/pictures/physycal_model.png)
